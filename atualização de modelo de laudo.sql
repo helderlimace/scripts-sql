@@ -5,7 +5,7 @@
 -- Description: Replica o modelo de laudo 'TESTE' para os demais modelos.
 -- ========================================================
 
-use alarico;
+use db_name;
 declare @exame varchar(30);     
 
 -- ========================================================
