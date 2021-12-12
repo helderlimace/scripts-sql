@@ -1,2 +1,2 @@
 # scripts-sql
- miscelanea
+ Scripts de uso geral.
